@@ -6,9 +6,9 @@ html, body
 
 body
 {
-    background-image:url(thestrals.gif);
-    background-position:center;
-    background-size:cover;
+        background-image:url(thestrals.gif);
+        background-position:center;
+        background-size:cover;
 }
 
 .header
